@@ -1,0 +1,2 @@
+﻿
+dotnet-ef dbcontext scaffold "Host=localhost;Port=3306;Database=papaya;Username=develop;Password=P@ssw0rd" Pomelo.EntityFrameworkCore.MySql --output-dir "Models" --context PapayaDbContext --use-database-names --no-onconfiguring --force

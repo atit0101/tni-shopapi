@@ -16,4 +16,6 @@ public partial class product
     public string product_data { get; set; } = null!;
 
     public virtual category category { get; set; } = null!;
+
+    public virtual ICollection<image> images { get; set; } = new List<image>();
 }

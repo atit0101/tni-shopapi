@@ -13,6 +13,8 @@ public partial class PapayaDbContext : DbContext
 
     public virtual DbSet<category> categories { get; set; }
 
+    public virtual DbSet<image> images { get; set; }
+
     public virtual DbSet<product> products { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -29,6 +31,24 @@ public partial class PapayaDbContext : DbContext
 
             entity.Property(e => e.category_id).HasColumnType("int(11)");
             entity.Property(e => e.category_name).HasMaxLength(255);
+        });
+
+        modelBuilder.Entity<image>(entity =>
+        {
+            entity.HasKey(e => e.image_id).HasName("PRIMARY");
+
+            entity.ToTable("image");
+
+            entity.HasIndex(e => e.product_id, "product_id");
+
+            entity.Property(e => e.image_id).HasColumnType("int(11)");
+            entity.Property(e => e.image_url).HasColumnType("text");
+            entity.Property(e => e.product_id).HasColumnType("int(11)");
+
+            entity.HasOne(d => d.product).WithMany(p => p.images)
+                .HasForeignKey(d => d.product_id)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("image_ibfk_1");
         });
 
         modelBuilder.Entity<product>(entity =>

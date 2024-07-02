@@ -21,7 +21,6 @@ namespace server.Controllers
             try
             {
                 var products = await _context.products.ToArrayAsync();
-
                 var res = new ResponseModel
                 {
                     Status = "success",

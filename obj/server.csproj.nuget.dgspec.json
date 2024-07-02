@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/atit/_work/tni/server/server.csproj": {}
+    "/Users/atit/_work/0tni/server/server.csproj": {}
   },
   "projects": {
-    "/Users/atit/_work/tni/server/server.csproj": {
+    "/Users/atit/_work/0tni/server/server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/atit/_work/tni/server/server.csproj",
+        "projectUniqueName": "/Users/atit/_work/0tni/server/server.csproj",
         "projectName": "server",
-        "projectPath": "/Users/atit/_work/tni/server/server.csproj",
+        "projectPath": "/Users/atit/_work/0tni/server/server.csproj",
         "packagesPath": "/Users/atit/.nuget/packages/",
-        "outputPath": "/Users/atit/_work/tni/server/obj/",
+        "outputPath": "/Users/atit/_work/0tni/server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/atit/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"

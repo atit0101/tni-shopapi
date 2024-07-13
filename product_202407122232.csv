@@ -1,0 +1,716 @@
+"product_id","product_name","price","category_id","product_data"
+1,K/B BLUETOOTH MULTI-DEVICE LOGITECH (K580) GARPHITE,1570.0,6,"{
+  ""Name"": ""K/B BLUETOOTH MULTI-DEVICE LOGITECH (K580) GRAPHITE"",
+  ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0139677"",
+  ""Price"": 1570,
+  ""Brand"": ""LOGITECH"",
+  ""Model"": ""K580"",
+  ""Interface"": ""Bluetooth / USB Wireless"",
+  ""Keys Windows Layout"": ""101 Keys"",
+  ""Keyboard Backlighting"": ""None"",
+  ""Battery Type"": ""2 x AAA"",
+  ""Support"": {
+    ""Windows"": ""10,11 หรือใหม่กว่า"",
+    ""macOS"": ""10.15 หรือใหม่กว่า"",
+    ""Chrome OS"": ""รองรับฟังก์ชันพื้นฐานของอุปกรณ์โดยไม่ต้องใช้ซอฟต์แวร์สำหรับระบบอื่นที่ไม่ใช่ Windows® และ macOS"",
+    ""Linux"": ""รองรับฟังก์ชันพื้นฐานของอุปกรณ์โดยไม่ต้องใช้ซอฟต์แวร์สำหรับระบบอื่นที่ไม่ใช่ Windows® และ macOS"",
+    ""iPadOS"": ""14 หรือใหม่กว่า รองรับฟังก์ชันพื้นฐานของอุปกรณ์โดยไม่ต้องใช้ซอฟต์แวร์สำหรับระบบอื่นที่ไม่ใช่ Windows® และ macOS"",
+    ""iOS"": ""14 หรือใหม่กว่า รองรับฟังก์ชันพื้นฐานของอุปกรณ์โดยไม่ต้องใช้ซอฟต์แวร์สำหรับระบบอื่นที่ไม่ใช่ Windows® และ macOS"",
+    ""Android"": ""8.0 หรือใหม่กว่า รองรับฟังก์ชันพื้นฐานของอุปกรณ์โดยไม่ต้องใช้ซอฟต์แวร์สำหรับระบบอื่นที่ไม่ใช่ Windows® และ macOS"",
+    ""Surface"": ""ใช้งานได้กับ Surface""
+  }
+}
+"
+2,K/B USB LECOO (KB103) Black By LENOVO,250.0,6,"{
+    ""Name"": ""K/B USB LECOO (KB103) Black By LENOVO"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0137831"",
+    ""Price"": 250,
+    ""Brand"": ""LECOO"",
+    ""Model"": ""KB103"",
+    ""Interface"": ""USB 2.0"",
+    ""Keys_Windows_Layout"": ""103 Keys"",
+    ""Keyboard_Backlighting"": ""None"",
+    ""Cable_Length"": ""1.5m""
+}
+"
+3,K/B USB ANITECH P202,180.0,6,"{
+    ""Name"": ""K/B USB ANITECH P202"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0150857"",
+    ""Price"": 180,
+    ""Brand"": ""ANITECH"",
+    ""Model"": ""P202"",
+    ""Interface"": ""USB 2.0"",
+    ""Keys_Windows_Layout"": ""104 Key"",
+    ""Keyboard_Backlighting"": ""None"",
+    ""Cable_Length"": ""1.3 M"",
+    ""Material"": ""Plastic ABS"",
+    ""Battery_Type"": ""None"",
+    ""Support"": [
+        ""Windows 98 / 2000 / NT / ME / XP / Vista / 7 / 8 / 10"",
+        ""MAC OS X""
+    ]
+}
+"
+4,K/B USB MINI NUBWO (NK-35) BLACK,169.0,6,"{
+    ""Name"": ""K/B USB MINI NUBWO (NK-35) BLACK"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0135629"",
+    ""Price"": 169,
+    ""Brand"": ""NUBWO"",
+    ""Model"": ""NK-35 (MERCURY)"",
+    ""Interface"": ""USB 2.0"",
+    ""Keys_Windows_Layout"": ""78 Keys""
+}
+"
+5,K/B USB OKER (KB-318) Black,145.0,6,"{
+    ""Name"": ""K/B USB OKER (KB-318) Black"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0116841"",
+    ""Price"": 145,
+    ""Brand"": ""OKER"",
+    ""Model"": ""KB-318"",
+    ""Interface"": ""USB 2.0"",
+    ""Keys_Windows_Layout"": ""104 Keys"",
+    ""Support"": [
+        ""Windows XP / Windows 2000 / Windows Vista / Windows 7/8/10"",
+        ""Mac OS 10.3 และรุ่นที่สูงกว่า""
+    ],
+    ""Dimension"": ""60 x 24.5 x 4.5CM"",
+    ""Weight"": ""0.27KG""
+}
+"
+6,N/B Asus X1605VA-MB522WS (16) Indie Black,22990.0,1,"{
+    ""Name"": ""N/B Asus X1605VA-MB522WS (16) Indie Black"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0151789"",
+    ""Price"": 22990,
+    ""Brand"": ""ASUS"",
+    ""Model"": ""Vivobook 16 (X1605VA-MB522WS)"",
+    ""Processor"": ""Intel Core i5-13500H (2.6GHz up to 4.7GHz, 18MB Intel Smart Cache)"",
+    ""Chipset"": ""Intel SoC Platform"",
+    ""Graphics"": ""Intel Iris Xe Graphics (Integrated Graphics)"",
+    ""Display_Screen"": ""16.0\"" 1920x1200 (WUXGA), IPS, 60Hz, 300nits, Anti-glare, 45% NTSC"",
+    ""Main_Memory"": ""16GB DDR4 (8GB Onboard + 8GB SODIMM)"",
+    ""Memory_Slot"": ""1x Slot"",
+    ""Max_Memory"": ""16GB (Max)"",
+    ""Storage"": ""512GB PCIe NVMe M.2 SSD"",
+    ""Storage_Slot"": ""1x Slot"",
+    ""Optical_Disk_Drive"": ""None"",
+    ""Web_Camera"": ""720p HD camera with privacy shutter"",
+    ""Sound_Technology"": ""SonicMaster"",
+    ""Audio_Jack"": ""1x 3.5mm Combo Audio Jack"",
+    ""Speaker"": [
+        ""Built-in speaker"",
+        ""Built-in microphone""
+    ],
+    ""Network"": ""None"",
+    ""Wireless"": ""Wireless 802.11ax (Wi-Fi 6E)"",
+    ""Bluetooth"": ""Bluetooth 5"",
+    ""Ports"": [
+        ""1x USB 2.0 Type-A"",
+        ""1x USB 3.2 Gen 1 Type-C support power delivery"",
+        ""2x USB 3.2 Gen 1 Type-A"",
+        ""1x HDMI 1.4""
+    ],
+    ""CardReader"": ""None"",
+    ""Power_Adapter"": ""ø4.5, 65W AC Adapter, Output: 19V DC, 3.42A, 65W, Input: 100~240V AC 50/60Hz universal"",
+    ""Battery"": ""42WHrs, 3S1P, 3-cell Li-ion"",
+    ""OS"": ""Windows 11 Home + Microsoft Office Home & Student 2021"",
+    ""Material"": [
+        ""LCD cover-material : Plastic"",
+        ""Top case-material : Plastic"",
+        ""Bottom case-material : Plastic""
+    ],
+    ""Keyboard_Type"": ""ENG/TH Chiclet Keyboard with Num-key"",
+    ""Backlit"": ""N/A"",
+    ""Touchpad"": ""Yes"",
+    ""Finger_Print"": ""Yes""
+}
+"
+7,N/B Lenovo IdeaPad Slim 5 16IAH8 83BG000CTA (16) Cloud Grey,20490.0,1,"{
+    ""Name"": ""N/B Lenovo IdeaPad Slim 5 16IAH8 83BG000CTA (16) Cloud Grey"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0151755"",
+    ""Price"": 20490,
+    ""Brand"": ""LENOVO"",
+    ""Model"": ""IdeaPad Slim 5 16IAH8 (83BG000CTA)"",
+    ""Processor"": ""Intel Core i5-12450H (2.0GHz up to 4.4GHz, 12MB Intel Smart Cache)"",
+    ""Chipset"": ""Intel SoC Platform"",
+    ""Graphics"": ""Intel UHD Graphics (Integrated Graphics)"",
+    ""Display_Screen"": ""16.0\"" 1920x1200 (WUXGA), IPS, 60Hz, 300nits, Anti-glare, 45% NTSC, TÜV Low Blue Light"",
+    ""Main_Memory"": ""16GB LPDDR5 4800MHz Onboard memory"",
+    ""Memory_Slot"": ""None"",
+    ""Max_Memory"": ""16GB (Max)"",
+    ""Storage"": ""512GB SSD M.2 2242 PCIe 4.0x4 NVMe"",
+    ""Storage_Slot"": ""1x M.2 2280 PCIe 4.0 x4 slot"",
+    ""Optical_Disk_Drive"": ""None"",
+    ""Web_Camera"": [
+        ""FHD 1080p with Privacy Shutter"",
+        ""2x, Array Microphone""
+    ],
+    ""Sound_Technology"": ""High Definition (HD) Audio"",
+    ""Audio_Jack"": ""1x Headphone / microphone combo jack (3.5mm)"",
+    ""Speaker"": ""Stereo speakers, 2W x2, optimized with Dolby Audio"",
+    ""Network"": ""None"",
+    ""Wireless"": ""Wireless 802.11ax"",
+    ""Bluetooth"": ""Bluetooth 5.1"",
+    ""Ports"": [
+        ""1x USB 3.2 Gen 1"",
+        ""1x USB 3.2 Gen 1 (Always On)"",
+        ""2x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)"",
+        ""1x HDMI 1.4b""
+    ],
+    ""CardReader"": ""microSD Card Reader"",
+    ""Power_Adapter"": ""65W USB-C (3-pin)"",
+    ""Battery"": ""3-Cell, 56.6Wh"",
+    ""OS"": ""Windows 11 Home + Microsoft Office Home & Student 2021"",
+    ""Material"": [
+        ""Aluminium (Top)"",
+        ""PC-ABS (Bottom)""
+    ],
+    ""Keyboard_Type"": ""ENG/TH, 6-row, multimedia Fn keys, numeric keypad"",
+    ""Backlit"": ""LED backlight"",
+    ""Touchpad"": ""Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad (PTP)"",
+    ""Finger_Print"": ""None""
+}
+"
+8,N/B Dell Latitude 3530-SNS3530001 (15.6),32490.0,1,"{
+    ""Name"": ""N/B Dell Latitude 3530-SNS3530001 (15.6)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0146413"",
+    ""Price"": 32490,
+    ""Brand"": ""DELL"",
+    ""Model"": ""Latitude 3530-SNS3530001"",
+    ""Processor"": ""Intel Core i5-1235U (E-core up to 3.3GHz, P-core up to 4.4GHz, 12MB Intel Smart Cache)"",
+    ""Chipset"": ""Intel SoC Platform"",
+    ""CPU_Brand"": ""Intel"",
+    ""CPU_Series"": ""i5"",
+    ""CPU_Model_Number"": ""1235U"",
+    ""CPU_Generation"": ""12th"",
+    ""Graphics"": ""Intel Iris Xe Graphics (Integrated Graphics)"",
+    ""GPU_Brand"": ""Intel"",
+    ""GPU_Line"": ""None"",
+    ""GPU_Series"": ""None"",
+    ""GPU_Model"": ""None"",
+    ""Display_Screen"": ""15.6\"" 1920x1080 (FHD), WVA, 60Hz, 250nits, Anti-glare"",
+    ""Main_Memory"": ""8GB (8GB x1) DDR4"",
+    ""Memory_Slot"": ""2x Slots"",
+    ""Max_Memory"": ""32GB"",
+    ""Storage"": ""256GB PCIe NVMe M.2 SSD"",
+    ""Storage_Slot"": [
+        ""1x M.2 PCIe SSD"",
+        ""1x 2.5\"" SATA HDD""
+    ],
+    ""Optical_Disk_Drive"": ""None"",
+    ""Web_Camera"": ""Camera w/shutter & Microphone"",
+    ""Sound_Technology"": ""HD Audio"",
+    ""Audio_Jack"": ""1x Universal audio port"",
+    ""Speaker"": ""Yes"",
+    ""Network"": ""10/100/1000 LAN"",
+    ""Wireless"": ""Wireless 802.11ax"",
+    ""Bluetooth"": ""Bluetooth 5.2"",
+    ""Ports"": [
+        ""1x USB 3.2 Gen 2x2 Type-C port with DisplayPort alt mode/Power Delivery"",
+        ""1x USB 3.2 Gen 1 port"",
+        ""1x USB 3.2 Gen 1 port with PowerShare"",
+        ""1x USB 2.0 port"",
+        ""1x HDMI 1.4a port""
+    ],
+    ""CardReader"": ""1x microSD 3.0 card slot"",
+    ""Power_Adapter"": ""65W Type-C Epeat Adapter"",
+    ""Battery"": ""3 Cell, 41Whr ExpressCharge Capable Battery"",
+    ""OS"": ""Windows 10 Pro (Includes Windows 11 Pro License) English"",
+    ""Material"": ""N/A"",
+    ""Keyboard_Type"": ""Single Pointing Backlit Keyboard (Thai), 10 Key Numpad"",
+    ""Backlit"": ""Yes"",
+    ""Touchpad"": ""Yes"",
+    ""Finger_Print"": ""N/A""
+}
+"
+9,N/B HP 15s-eq3064AU (15.6) (78J25PA#AKL),18490.0,1,"{
+    ""Name"": ""N/B HP 15s-eq3064AU (15.6) (78J25PA#AKL)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0146752"",
+    ""Price"": 18490,
+    ""Brand"": ""HP"",
+    ""Model"": ""15s-eq3064AU (78J25PA#AKL)"",
+    ""Processor"": ""AMD Ryzen 7 5825U (2.0GHz up to 4.5GHz, 4MB L2 / 16MB L3 Cache)"",
+    ""Chipset"": ""AMD SoC Platform"",
+    ""CPU_Brand"": ""AMD"",
+    ""CPU_Series"": ""Ryzen 7"",
+    ""CPU_Model_Number"": ""5825U"",
+    ""CPU_Generation"": ""5000 Series"",
+    ""Graphics"": ""AMD Radeon Graphics (Integrated Graphics)"",
+    ""GPU_Brand"": ""AMD"",
+    ""GPU_Line"": ""None"",
+    ""GPU_Series"": ""None"",
+    ""GPU_Model"": ""None"",
+    ""Display_Screen"": ""15.6\"" 1920x1080 (FHD), IPS, 60Hz, micro-edge, anti-glare, 250 nits, 45% NTSC"",
+    ""Main_Memory"": ""8GB (8GB x1) DDR4 3200MHz"",
+    ""Memory_Slot"": ""N/A"",
+    ""Max_Memory"": ""N/A"",
+    ""Storage"": ""512GB PCIe NVMe M.2 SSD"",
+    ""Storage_Slot"": ""N/A"",
+    ""Optical_Disk_Drive"": ""None"",
+    ""Web_Camera"": ""HP True Vision 720p HD camera with temporal noise reduction and integrated dual array digital microphones"",
+    ""Sound_Technology"": ""HD Audio"",
+    ""Audio_Jack"": ""1x headphone/microphone combo"",
+    ""Speaker"": ""Dual speakers"",
+    ""Network"": ""None"",
+    ""Wireless"": ""Wireless 802.11ax"",
+    ""Bluetooth"": ""Bluetooth 5.2"",
+    ""Ports"": [
+        ""1x SuperSpeed USB Type-C® 5Gbps signaling rate"",
+        ""2x SuperSpeed USB Type-A 5Gbps signaling rate"",
+        ""1x HDMI 1.4b""
+    ],
+    ""CardReader"": ""1x multi-format SD media card reader"",
+    ""Power_Adapter"": ""45 W Smart AC power adapter"",
+    ""Battery"": ""3-cell, 41 Wh Li-ion"",
+    ""OS"": ""Windows 11 Home"",
+    ""Material"": ""N/A"",
+    ""Keyboard_Type"": ""ENG/TH keyboard with numeric keypad"",
+    ""Backlit"": ""N/A"",
+    ""Touchpad"": ""HP Imagepad with multi-touch gesture support; Precision Touchpad Support"",
+    ""Finger_Print"": ""N/A""
+}
+"
+10,N/B Acer AV15-51R-52JY/T001 (15.6) Volcano Gray,20900.0,1,"{
+    ""Name"": ""N/B Acer AV15-51R-52JY/T001 (15.6) Volcano Gray"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0142554"",
+    ""Price"": 20900,
+    ""Brand"": ""ACER"",
+    ""Model"": ""Aspire Vero AV15-51R-52JY/T001"",
+    ""Processor"": ""Intel Core i5-1155G7 (2.5GHz up to 4.5GHz, 8MB Intel Smart Cache)"",
+    ""Chipset"": ""Intel SoC Platform"",
+    ""CPU_Brand"": ""Intel"",
+    ""CPU_Series"": ""i5"",
+    ""CPU_Model_Number"": ""1155G7"",
+    ""CPU_Generation"": ""11th"",
+    ""Graphics"": ""Intel Iris Xe Graphics (Integrated Graphics)"",
+    ""GPU_Brand"": ""Intel"",
+    ""GPU_Line"": ""None"",
+    ""GPU_Series"": ""None"",
+    ""GPU_Model"": ""None"",
+    ""Display_Screen"": ""15.6\"" 1920x1080 (FHD), IPS, 60Hz, Acer ComfyView™"",
+    ""Main_Memory"": ""8GB DDR4 (4GB Onboard + 4GB SODIMM)"",
+    ""Memory_Slot"": ""1x Slot"",
+    ""Max_Memory"": ""12GB"",
+    ""Storage"": ""512GB PCIe NVMe M.2 SSD"",
+    ""Storage_Slot"": ""1x M.2 SSD"",
+    ""Optical_Disk_Drive"": ""None"",
+    ""Web_Camera"": ""Acer HD Webcam"",
+    ""Sound_Technology"": ""HD Audio"",
+    ""Audio_Jack"": ""3.5 mm headphone/speaker jack, supporting headsets with built-in microphone"",
+    ""Speaker"": ""Yes"",
+    ""Network"": ""10/100/1000 LAN"",
+    ""Wireless"": ""Wireless 802.11ax"",
+    ""Bluetooth"": ""Bluetooth 5.1"",
+    ""Ports"": [
+        ""1x HDMI® 2.0 port with HDCP support"",
+        ""1x USB Type-C™ port: USB 3.2 Gen 1 (up to 5 Gbps)"",
+        ""2x USB 3.2 Gen 1 ports with one featuring power-off USB charging"",
+        ""1x USB 2.0 port""
+    ],
+    ""CardReader"": ""N/A"",
+    ""Power_Adapter"": ""3-pin 65 W AC adapter"",
+    ""Battery"": ""3-Cell, 48Wh"",
+    ""OS"": ""Windows 11 Home (64-bit) + Microsoft Office Home & Student 2021"",
+    ""Material"": ""Post-Consumer Recycled (PCR) plastics"",
+    ""Keyboard_Type"": ""ENG/TH Keyboard"",
+    ""Backlit"": ""N/A"",
+    ""Touchpad"": ""Yes"",
+    ""Finger_Print"": ""Yes""
+}
+"
+11,"Monitor 23.8'' LENOVO G24-20 (IPS, HDMI, DP) FREESYNC 144Hz",3590.0,2,"{
+    ""Name"": ""Monitor 23.8'' LENOVO G24-20 (IPS, HDMI, DP) FREESYNC 144Hz"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0139470"",
+    ""Price"": 3590,
+    ""Brand"": ""Lenovo"",
+    ""Model"": ""G24-20"",
+    ""Screen Size"": ""23.8\"""",
+    ""Panel Type"": ""IPS"",
+    ""Pixel Pitch"": ""0.2745mm x 0.2745mm"",
+    ""Maximum Resolution"": ""1920 x 1080"",
+    ""Brightness"": ""350 cd/m2"",
+    ""Contrast Ratio"": ""1000:1"",
+    ""Dynamic Contrast Ratio"": ""N/A"",
+    ""Viewing Angle"": ""178°(H) / 178°(V)"",
+    ""Response Time"": ""0.5 ms (MPRT)"",
+    ""Refresh Rate"": ""144Hz"",
+    ""Aspect Ratio"": ""16:9"",
+    ""Color Support"": ""16.7M"",
+    ""Color Gamut"": ""99% sRGB"",
+    ""HDMI"": ""2 Ports"",
+    ""DisplayPort"": ""1 Port"",
+    ""DVI"": ""None"",
+    ""D-Sub (VGA)"": ""None"",
+    ""Mini HDMI"": ""None"",
+    ""Mini DisplayPort"": ""None"",
+    ""USB"": ""None"",
+    ""Speaker"": ""None"",
+    ""Special Features"": ""AMD FreeSync Premium Technology"",
+    ""Package Contents"": [
+        ""DisplayPort Cable x 1"",
+        ""AC Power Cord x 1""
+    ]
+}
+"
+12,"Monitor 27'' SAMSUNG LS27AG320NEXXT (VA, HDMI, DP) FREESYNC 165Hz",4990.0,2,"{
+    ""Name"": ""Monitor 27'' SAMSUNG LS27AG320NEXXT (VA, HDMI, DP) FREESYNC 165Hz"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0142360"",
+    ""Price"": 4990,
+    ""Brand"": ""Samsung"",
+    ""Model"": ""ODYSSEY G3 LS27AG320NEXXT"",
+    ""Screen Size"": ""27\"""",
+    ""Panel Type"": ""VA"",
+    ""Pixel Pitch"": ""N/A"",
+    ""Maximum Resolution"": ""1920 x 1080"",
+    ""Brightness"": ""250 cd/m2"",
+    ""Contrast Ratio"": ""3000:1"",
+    ""Dynamic Contrast Ratio"": ""MEGA"",
+    ""Viewing Angle"": ""178°(H) / 178°(V)"",
+    ""Response Time"": ""1ms (MPRT)"",
+    ""Refresh Rate"": ""165Hz"",
+    ""Aspect Ratio"": ""16:9"",
+    ""Color Support"": ""16.7M"",
+    ""Color Gamut"": ""72% NTSC"",
+    ""HDMI"": ""1 Port"",
+    ""DisplayPort"": ""1 Port"",
+    ""DVI"": ""None"",
+    ""D-Sub (VGA)"": ""None"",
+    ""Mini HDMI"": ""None"",
+    ""Mini DisplayPort"": ""None"",
+    ""USB"": ""None"",
+    ""Speaker"": ""None"",
+    ""Special Features"": ""AMD FreeSync Premium Technology"",
+    ""Package Contents"": [
+        ""DisplayPort Cable x 1"",
+        ""AC Power Cable x 1"",
+        ""Adapter x 1""
+    ]
+}
+"
+13,"Monitor 23.8'' MSI PRO MP243 (IPS, DP, HDMI, SPK) 75Hz",3950.0,2,"{
+    ""Name"": ""Monitor 23.8'' MSI PRO MP243 (IPS, DP, HDMI, SPK) 75Hz"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0145641"",
+    ""Price"": 3950,
+    ""Brand"": ""MSI"",
+    ""Model"": ""PRO MP243"",
+    ""Screen Size"": ""23.8\"""",
+    ""Panel Type"": ""IPS"",
+    ""Pixel Pitch"": ""N/A"",
+    ""Maximum Resolution"": ""1920x1080 (FHD)"",
+    ""Brightness"": ""250nits"",
+    ""Contrast Ratio"": ""1000:1"",
+    ""Dynamic Contrast Ratio"": ""100000000:1"",
+    ""Viewing Angle"": ""178°(H)/178°(V)"",
+    ""Response Time"": ""5ms (GTG)"",
+    ""Refresh Rate"": ""75Hz"",
+    ""Aspect Ratio"": ""16:9"",
+    ""Color Support"": ""16.7M"",
+    ""Color Gamut"": ""99.08% sRGB (CIE1976)"",
+    ""HDMI"": ""1 Port (1.4)"",
+    ""DisplayPort"": ""1 Port"",
+    ""DVI"": ""None"",
+    ""D-Sub (VGA)"": ""None"",
+    ""Mini HDMI"": ""None"",
+    ""Mini DisplayPort"": ""None"",
+    ""USB"": ""None"",
+    ""Speaker"": ""2 Built-in Speaker"",
+    ""Special Features"": [
+        ""FreeSync"",
+        ""ADJUSTMENT (TILT) : -5° ~ 20°"",
+        ""SUPPORT VESA MOUNTING : 75x75mm""
+    ],
+    ""Package Contents"": [
+        ""1 x HDMI CABLE"",
+        ""1 x POWER CORD"",
+        ""1 x AC ADAPTOR""
+    ]
+}
+"
+14,"Monitor 23.8'' DELL S2421H (IPS, DP, HDMI) 75Hz",5690.0,2,"{
+    ""Name"": ""Monitor 23.8'' DELL S2421H (IPS, DP, HDMI) 75Hz"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0135725"",
+    ""Price"": 5690,
+    ""Brand"": ""DELL"",
+    ""Model"": ""S2421H"",
+    ""Screen Size"": ""23.8\"""",
+    ""Panel Type"": ""IPS"",
+    ""Pixel Pitch"": ""0.2745 mm x 0.2745 mm"",
+    ""Maximum Resolution"": ""1920 x 1080"",
+    ""Brightness"": ""250 cd/m2"",
+    ""Contrast Ratio"": ""1000:1"",
+    ""Dynamic Contrast Ratio"": ""N/A"",
+    ""Viewing Angle"": ""178°(H) / 178°(V)"",
+    ""Response Time"": ""4ms"",
+    ""Refresh Rate"": ""75Hz"",
+    ""Aspect Ratio"": ""16:9"",
+    ""Color Support"": ""16.7M"",
+    ""HDMI"": ""2 Ports"",
+    ""DisplayPort"": ""None"",
+    ""DVI"": ""None"",
+    ""D-Sub (VGA)"": ""None"",
+    ""Mini HDMI"": ""None"",
+    ""Mini DisplayPort"": ""None"",
+    ""USB"": ""None"",
+    ""Speaker"": ""3W x 2"",
+    ""Special Features"": ""AMD FreeSync technology"",
+    ""Package Contents"": [
+        ""HDMI Cable x 1"",
+        ""AC Power Cord x 1""
+    ]
+}
+"
+15,Monitor 27'' ACER T272HLbmjjz (HDMI),9900.0,2,"{
+    ""Name"": ""Monitor 27'' ACER T272HLbmjjz (HDMI)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0080177"",
+    ""Price"": 9900,
+    ""Brand"": ""Acer"",
+    ""Model"": ""T272HLbmjjz"",
+    ""Screen Size"": ""27\"""",
+    ""Panel Type"": ""VA"",
+    ""Maximum Resolution"": ""1920 x 1080"",
+    ""Brightness"": ""300 cd/m2"",
+    ""Dynamic Contrast Ratio"": ""100M:1"",
+    ""Viewing Angle"": ""178° (H) / 178° (V)"",
+    ""Response Time"": ""5ms"",
+    ""Pixel Pitch"": ""N/A"",
+    ""Contrast Ratio"": ""N/A"",
+    ""Refresh Rate"": ""60Hz"",
+    ""USB"": {
+        ""Downstream"": ""USB 3.0 x 3 Ports"",
+        ""Upstream"": ""USB 3.0 x 1 Port""
+    },
+    ""Package Contents"": [
+        ""VGA Cable x 1"",
+        ""HDMI Cable x 1"",
+        ""USB Upstream Cable x 1"",
+        ""Micro USB to HDMI Cable x 1"",
+        ""AC Adapter x 1""
+    ],
+    ""Aspect Ratio"": ""16:9"",
+    ""Color Support"": ""16.7 million"",
+    ""HDMI"": ""2 Ports"",
+    ""D-Sub (VGA)"": ""1 Port"",
+    ""Speaker"": ""2W x 2"",
+    ""Special Features"": ""Touch Screen""
+}
+"
+16,OPT. SIGNO MO-540R RED,119.0,3,"{
+    ""Name"": ""OPT. SIGNO MO-540R RED"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0155215"",
+    ""Price"": 119,
+    ""Brand"": ""SIGNO"",
+    ""Model"": ""MO-540R"",
+    ""Interface"": ""USB 2.0"",
+    ""Sensing technology"": ""M16175/1"",
+    ""Resolution"": ""1000 DPI"",
+    ""Buttons"": ""3 BUTTONS"",
+    ""Cable Length"": ""1.5 M."",
+    ""Battery Type"": ""None"",
+    ""System Requirements OS"": ""All Windows Versions & Mac""
+}
+"
+17,OPT.OKER (M145) BLACK,95.0,3,"{
+    ""Name"": ""OPT.OKER (M145) BLACK"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0146047"",
+    ""Price"": 95,
+    ""Brand"": ""OKER"",
+    ""Model"": ""M145"",
+    ""Interface"": ""USB"",
+    ""Sensing technology"": ""Optical"",
+    ""Resolution"": ""1200 DPI"",
+    ""Buttons"": ""3 Buttons"",
+    ""Cable Length"": ""1.5 M"",
+    ""Battery Type"": ""None"",
+    ""System Requirements OS"": ""Windows and Other""
+}
+"
+18,OPT.USB DELL (MS116) BLACK,130.0,3,"{
+    ""Name"": ""OPT.USB DELL (MS116) BLACK"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0128598"",
+    ""Price"": 130,
+    ""Brand"": ""DELL"",
+    ""Model"": ""MS116"",
+    ""Interface"": ""USB"",
+    ""Sensing technology"": ""Optical"",
+    ""Resolution"": ""1000 dpi"",
+    ""Buttons"": ""3 Buttons"",
+    ""Cable Length"": ""1.8 m""
+}
+"
+19,OPT.USB HP (M160) Blue,120.0,3,"{
+    ""Name"": ""OPT.USB HP (M160) Blue"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0131279"",
+    ""Price"": 120,
+    ""Brand"": ""HP."",
+    ""Model"": ""M160"",
+    ""Interface"": ""USB"",
+    ""Sensing technology"": ""Optical"",
+    ""Resolution"": ""1000 DPI"",
+    ""Buttons"": ""3 buttons"",
+    ""Cable Length"": ""1.3m"",
+    ""System Requirements OS"": ""Microsoft Windows XP / 7 / 8 / 10"",
+    ""Special Feature"": ""Built-in LED lightning""
+}
+"
+20,OPT.USB LOGITECH (M100R) Black,190.0,3,"{
+    ""Name"": ""OPT.USB LOGITECH (M100R) Black"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0052566"",
+    ""Price"": 190,
+    ""Brand"": ""LOGITECH"",
+    ""Model"": ""M100R"",
+    ""Interface"": ""USB"",
+    ""Sensing technology"": ""Optical Mouse"",
+    ""Resolution"": ""1000 dpi"",
+    ""Buttons"": ""3 Buttons"",
+    ""Cable Length"": ""1.8 m"",
+    ""System Requirement"": ""Windows XP, Vista , 7, 8 , 10\nMacOS 10.5 หรือใหม่กว่า\nLinux Kernel 2.6+""
+}
+"
+21,"RAM DDR5(4800, NB) 16GB PATRIOT (PSD516G480081S)",1590.0,4,"{
+    ""Name"": ""RAM DDR5(4800, NB) 16GB PATRIOT (PSD516G480081S)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0154188"",
+    ""Price"": 1590,
+    ""Brand"": ""PATRIOT"",
+    ""Model"": ""PSD516G480081S"",
+    ""Memory Size"": ""16 GB"",
+    ""Memory Type"": ""DDR5"",
+    ""BUS"": 4800,
+    ""PC"": 38400,
+    ""CL"": 40,
+    ""Chips"": ""N/A"",
+    ""Features"": ""1.1V"",
+    ""CPU Brand Support"": ""Intel , AMD""
+}
+"
+22,"RAM DDR5(4800, NB) 16GB BLACKBERRY",1590.0,4,"{
+    ""Name"": ""RAM DDR5(4800, NB) 16GB BLACKBERRY"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0156358"",
+    ""Price"": 1590,
+    ""Brand"": ""BLACKBERRY"",
+    ""Model"": ""DDR5 4800"",
+    ""Memory Size"": ""16GB"",
+    ""Memory Type"": ""DDR5"",
+    ""BUS"": 4800,
+    ""PC"": 38400,
+    ""CL"": ""N/A"",
+    ""Chips"": ""N/A"",
+    ""CPU Brand Support"": ""Intel/AMD""
+}
+"
+23,"RAM DDR5(4800, NB) 8GB KINGSTON FURY IMPACT (KF548S38IB-8)",1190.0,4,"{
+    ""Name"": ""RAM DDR5(4800, NB) 8GB KINGSTON FURY IMPACT (KF548S38IB-8)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0146356"",
+    ""Price"": 1190,
+    ""Brand"": ""KINGSTON"",
+    ""Model"": ""FURY IMPACT (KF548S38IB/8)"",
+    ""Memory Size"": ""8GB"",
+    ""Memory Type"": ""DDR5"",
+    ""BUS"": ""4800MT/s"",
+    ""PC"": ""PC5-38400"",
+    ""CL"": ""CL38"",
+    ""Chips"": ""N/A""
+}
+"
+24,"RAM DDR5(4800, NB) 8GB APACER (FS.08G2A.RTH)",950.0,4,"{
+    ""Name"": ""RAM DDR5(4800, NB) 8GB APACER (FS.08G2A.RTH)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0148537"",
+    ""Price"": 950,
+    ""Brand"": ""APACER"",
+    ""Model"": ""FS.08G2A.RTH"",
+    ""Memory Size"": ""8GB"",
+    ""Memory Type"": ""DDR5 NB"",
+    ""BUS"": ""4800"",
+    ""PC"": ""PC5-38400"",
+    ""CL"": ""40"",
+    ""Chips"": ""N/A"",
+    ""Features"": ""N/A""
+}
+"
+25,Note Book DDR5(4800) 16GB Corsair (Vengeance/CMSX16GX5M1A4800C40),1790.0,4,"{
+    ""Name"": ""Note Book DDR5(4800) 16GB Corsair (Vengeance/CMSX16GX5M1A4800C40)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0143676"",
+    ""Price"": 1790,
+    ""Brand"": ""CORSAIR"",
+    ""Model"": ""VENGEANCE DDR5 (CMSX16GX5M1A4800C40)"",
+    ""Memory Size"": ""16GB"",
+    ""Memory Type"": ""DDR5"",
+    ""BUS"": ""4800 MHz"",
+    ""PC"": ""PC5 38400"",
+    ""CL"": ""CL 40-40-40-77"",
+    ""Chips"": ""N/A""
+}
+"
+26,SSD M.2 PCIe 128.GB (3Y) Kingmax KMPQ3480128G,720.0,5,"{
+    ""Name"": ""SSD M.2 PCIe 128.GB (3Y) Kingmax KMPQ3480128G"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0133827"",
+    ""Price"": 720,
+    ""Brand"": ""Kingmax"",
+    ""Model"": ""PQ3480"",
+    ""Capacity"": ""128GB"",
+    ""Storage Type"": ""NVMe"",
+    ""Interface"": ""PCIe Gen3 x4, NVMe 1.3"",
+    ""PCIe Version"": ""PCIe3"",
+    ""Sequential Read"": ""Up to 1,800 MB/s"",
+    ""Sequential Write"": ""Up to 550 MB/s"",
+    ""Form Factor"": ""M.2 2280""
+}
+"
+27,SSD 2.5 SATA 1.TB (5Y) Samsung 870EVO (MZ-77E1T0BW),3490.0,5,"{
+    ""Name"": ""SSD 2.5 SATA 1.TB (5Y) Samsung 870EVO (MZ-77E1T0BW)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0134870"",
+    ""Price"": 3490,
+    ""Brand"": ""SAMSUNG"",
+    ""Model"": ""870 EVO (MZ-77E1T0BW)"",
+    ""Capacity"": ""1TB"",
+    ""Interface"": ""SATA 6 Gb/s Interface, compatible with SATA 3 Gb/s & SATA 1.5 Gb/s interface"",
+    ""Sequential Read"": ""Up to 560 MB/s"",
+    ""Sequential Write"": ""Up to 530 MB/s"",
+    ""Form Factor"": ""2.5\"""",
+    ""Storage Type"": ""SATA"",
+    ""PCIe Version"": ""None""
+}
+"
+28,SSD 2.5 SATA 120.GB (3Y) Hikvision Minder (HS-SSD-Minder(S)/120G),520.0,5,"{
+    ""Name"": ""SSD 2.5 SATA 120.GB (3Y) Hikvision Minder (HS-SSD-Minder(S)/120G)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0134590"",
+    ""Price"": 520,
+    ""Brand"": ""Hikvision"",
+    ""Model"": ""Minder (HS-SSD-Minder(S)/120G)"",
+    ""Capacity"": ""120GB"",
+    ""Interface"": ""SATA III"",
+    ""Sequential Read"": ""Up to 460 MB/s"",
+    ""Sequential Write"": ""Up to 360 MB/s"",
+    ""Form Factor"": ""2.5\"""",
+    ""Storage Type"": ""SATA"",
+    ""PCIe Version"": ""None""
+}
+"
+29,SSD 2.5 SATA 480.GB (3Y) Kingston (SA400S37/480G),1260.0,5,"{
+    ""Name"": ""SSD 2.5 SATA 480.GB (3Y) Kingston (SA400S37/480G)"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0105937"",
+    ""Price"": 1260,
+    ""Brand"": ""KINGSTON"",
+    ""Model"": ""SA400S37"",
+    ""Capacity"": ""480 GB"",
+    ""Interface"": ""SATA Rev. 3.0 (6Gb/s) - with backwards compatibility to SATA Rev. 2.0 (3Gb/s)"",
+    ""Sequential Read"": ""Up to 500 MB/s"",
+    ""Sequential Write"": ""Up to 450 MB/s"",
+    ""Form Factor"": ""2.5\"""",
+    ""Storage Type"": ""SATA"",
+    ""PCIe Version"": ""None""
+}
+"
+30,SSD 2.5 SATA 128.GB (3Y) LEXAR NS100 'LNS100-128RBNC',520.0,5,"{
+    ""Name"": ""SSD 2.5 SATA 128.GB (3Y) LEXAR NS100 'LNS100-128RBNC'"",
+    ""Ref"": ""https://www.advice.co.th/branch-a026/index.php/product/productdetail/A0125992"",
+    ""Price"": 520,
+    ""Brand"": ""LEXAR"",
+    ""Model"": ""LNS100-128RBCN"",
+    ""Capacity"": ""128GB"",
+    ""Interface"": ""SATA III (6Gb/s)"",
+    ""Sequential Read"": ""Up to 520 MB/s"",
+    ""Sequential Write"": ""Up to 440 MB/s"",
+    ""Form Factor"": ""2.5\"""",
+    ""Storage Type"": ""SATA"",
+    ""PCIe Version"": ""None""
+}
+"

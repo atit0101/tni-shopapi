@@ -26,10 +26,15 @@ services:
     ports:
       - 8080:8080
 
-  api:
-    image: api
-    ports:
-      - 8081:8081
-    networks:
-      - tni-shopapi_default
+#  api:
+#    image: api
+#    ports:
+#      - 8081:8081
+#    networks:
+#      - tni-shopapi_default
+
+networks:
+  tni-shopapi_default:
+
+
 
